@@ -6,6 +6,8 @@ public class linearArray {
 
 
         //declare the empty Strings array variables first
+        //changes for git hub
+        //new changes
 
         String[] students, teachers;
 
